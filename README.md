@@ -1,5 +1,5 @@
 # Phenology-Niche-SAM2
-Official code and data repository for the paper: **"A Phenology–Niche Consistency-Guided SAM2 Framework for Cross-Scale Object-Level Mapping of Giant Panda Staple Bamboo Species"**.
+Official code and data repository for the paper: **" Cross-Scale Object-Level Mapping of Giant Panda Staple Bamboo Species using Phenology–Niche Consistency and SAM2 "**.
 
 ## Workflow & Code Structure
 The workflow consists of Google Earth Engine (GEE) data preparation and local Python processing. 
